@@ -1,0 +1,15 @@
+Parameter,Value
+Original Image,test-munnar.png
+Image Resolution,1920 × 1080
+Feature Dimension,384
+Ground Truth Latitude,10.077277778000
+Ground Truth Longitude,77.058222222000
+AI Estimated Latitude,10.085902557000
+AI Estimated Longitude,77.051077853000
+Cosine Similarity,0.613770
+Top-1 Margin,0.013995
+Spatial Support,48
+Latitude Difference,0.008624779000°
+Longitude Difference,-0.007144369000°
+Haversine Error (m),1237.539
+Haversine Error (km),1.238
